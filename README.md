@@ -16,11 +16,9 @@
 <h3 align="center">Let's Talk</h3>
 
 <p align="center">
-  
-<a href="www.facebook.com/naimzq" target="_blank"> <img src="https://simpleicons.org/icons/facebook.svg" width="40px" align="center"> </a>
-<a href="www.twitter.com/naimoxide" target="_blank"> <img src="https://simpleicons.org/icons/twitter.svg" width="40px" align="center"> </a>
-<a href="www.instagram.com/naim_motu" target="_blank"> <img src="https://simpleicons.org/icons/instagram.svg" width="40px" align="center"> </a>
-  
+<a href="https://www.facebook.com/naimzq" target="_blank"> <img src="https://simpleicons.org/icons/facebook.svg" width="40px" align="center"> </a>
+<a href="https://www.twitter.com/naimoxide" target="_blank"> <img src="https://simpleicons.org/icons/twitter.svg" width="40px" align="center"> </a>
+<a href="https://www.instagram.com/naim_motu" target="_blank"> <img src="https://simpleicons.org/icons/instagram.svg" width="40px" align="center"> </a>
 </p>
 
 
